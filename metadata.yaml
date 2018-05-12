@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21649#A-Cluster-of-GrapesA-Book-of-Twentieth-Century-Poetry
 gutenberg_issued: '2007-05-31'
 gutenberg_type: Text
 identifiers:
